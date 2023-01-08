@@ -1,0 +1,21 @@
+"Phrases"
+{
+    "prefix"
+    {
+        "en"    "{green}[AbNeR Imposter]{default} "
+        "pt"    "{green}[AbNeR Imposter]{default} "
+    }
+
+    "message"
+    {
+        "en"    "Kill an enemy with a knife to steal it's skin and become an impostor"
+        "pt"    "Mate um jogador na faca para roubar sua skin e se tornar um impostor"
+    }
+
+    "Kill message"
+    {
+        "#format"    "{1:N}{2:N}"
+        "en"         "Player {lightgreen}{1}{default} killed {olive}{2}{default} with a knife and turned an imposter."
+        "pt"         "Jogador {lightgreen}{1}{default} matou {olive}{2}{default} na faca e se tornou um impostor."
+    }    
+}
